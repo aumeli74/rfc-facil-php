@@ -1,5 +1,5 @@
 {
-  "name": "juanjoc333/rfc-facil-php",
+  "name": "giro26/juanjoc333-rfc-facil-php",
   "description": "Librería para calcular el Registro Federal de Contribuyentes en México (RFC)",
   "keywords": [
     "rfc",
@@ -13,8 +13,7 @@
     }
   ],
   "require": {
-    "php": ">=5.6.4",
-    "phpspec/phpspec": "^4.0"
+    "php": "^8.1"
   },
   "autoload": {
     "classmap": [],
